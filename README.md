@@ -1,6 +1,6 @@
 # Loester Botelho
 
-**Full-stack Developer | Full Stack Developer | Software Engineer | Tech Lead | Software Architect**  
+**Full-stack Developer**  
 
 ## Resumo
 Eu sou uma pessoa curiosa e determinada, especialmente em relação ao aprendizado de inglês e ao desenvolvimento das minhas habilidades. Tenho interesse ativo em melhorar e buscar novas informações.
