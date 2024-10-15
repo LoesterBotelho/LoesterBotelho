@@ -56,7 +56,7 @@ Full-Stack Developer com mais de 10 anos de experiência no desenvolvimento de s
 ## Idiomas
 
 - **Português:** Nativo  
-- **Inglês:** Intermediário
+- **Inglês:** CEFR: B1 Pre-Intermediate
 
 ---
 
