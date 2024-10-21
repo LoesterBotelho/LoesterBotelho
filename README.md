@@ -2,22 +2,20 @@
 
 # My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,spring,python,docker,git,github,postgres,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,python,docker,git,github,postgres,react,angular)](https://skillicons.dev)
 
 ## Tecnologias e Ferramentas
 
 - JavaScript (JS)
 - HTML5
 - CSS3
-- WebAssembly
 - Java com Spring Framework
 - Python
 - Docker
 - Git e GitHub
 - PostgreSQL
 - React
-
-
+- Angular
 
 **Full-stack Developer**  
 
