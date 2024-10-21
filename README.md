@@ -1,5 +1,5 @@
 
-# echo Olá, Mundo! 👋
+# Olá, Mundo! 👋
 
 ## Sobre Mim
 
