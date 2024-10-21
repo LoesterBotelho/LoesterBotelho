@@ -1,6 +1,11 @@
-# Loester Botelho
 
-# My Skills
+# Olá, Mundo! 👋
+
+## Sobre Mim
+
+Sou um desenvolvedor apaixonado por criar soluções inovadoras. Tenho experiência em diversas tecnologias e estou sempre buscando aprender mais.
+
+## Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,python,docker,git,github,postgres,react,angular)](https://skillicons.dev)
 
@@ -17,6 +22,22 @@
 - React
 - Angular
 
+## Projetos em Destaque
+
+- **[projeto-loester](https://github.com/LoesterBotelho/projeto-loester)** - Java Spring Project
+- **[DEVS2BLU - JAVA](https://github.com/LoesterBotelho/DEVS2BLU)** - DEVS2BLU (JAVA)
+- **[SQL-POSTGRESQL](https://github.com/LoesterBotelho/SQL-POSTGRESQL)** - SQL-POSTGRESQL
+
+## Contato
+- LinkedIn: [linkedin.com/in/loesterbotelho](https://linkedin.com/in/loesterbotelho)
+- GitHub: [github.com/LoesterBotelho](https://github.com/LoesterBotelho)
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+
+# Loester Botelho
 **Full-stack Developer**  
 
 ## Resumo
