@@ -1,5 +1,24 @@
 # Loester Botelho
 
+# My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,spring,python,docker,git,github,postgres,react)](https://skillicons.dev)
+
+## Tecnologias e Ferramentas
+
+- JavaScript (JS)
+- HTML5
+- CSS3
+- WebAssembly
+- Java com Spring Framework
+- Python
+- Docker
+- Git e GitHub
+- PostgreSQL
+- React
+
+
+
 **Full-stack Developer**  
 
 ## Resumo
