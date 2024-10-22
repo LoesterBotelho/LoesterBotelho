@@ -40,6 +40,21 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 # Loester Botelho
 **Full-stack Developer**  
 
+<div align="center">
+  
+<img src="https://streak-stats.demolab.com?user=LoesterBotelho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=LoesterBotelho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LoesterBotelho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+
+</div>
+
+
 ## Resumo
 Eu sou uma pessoa curiosa e determinada, especialmente em relação ao aprendizado de inglês e ao desenvolvimento das minhas habilidades. Tenho interesse ativo em melhorar e buscar novas informações.
 
