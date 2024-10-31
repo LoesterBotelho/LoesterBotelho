@@ -24,9 +24,15 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Tenho experiên
 
 ## Projetos em Destaque
 
-- **[projeto-loester](https://github.com/LoesterBotelho/projeto-loester)** - Java Spring Project
-- **[DEVS2BLU - JAVA](https://github.com/LoesterBotelho/DEVS2BLU)** - DEVS2BLU (JAVA)
-- **[SQL-POSTGRESQL](https://github.com/LoesterBotelho/SQL-POSTGRESQL)** - SQL-POSTGRESQL
+- **[projeto-loester](https://github.com/LoesterBotelho/projeto-loester)** - Uma Jornada Full Stack (Java Spring Project + Angular)
+
+- **[DEVS2BLU - JAVA](https://github.com/LoesterBotelho/DEVS2BLU)** - Uma Uma Jornada Rumo ao Domínio de Java
+
+- **[SQL-POSTGRESQL](https://github.com/LoesterBotelho/SQL-POSTGRESQL)** - Explorando o Mundo dos Bancos de Dados
+
+- **[english-daily-learning](https://github.com/LoesterBotelho/english-daily-learning)** - Caminhando Rumo à Fluência em Inglês
+
+
 
 ## Contato
 - LinkedIn: [linkedin.com/in/loesterbotelho](https://linkedin.com/in/loesterbotelho)
@@ -43,10 +49,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 <div align="center">
   
 <img src="https://streak-stats.demolab.com?user=LoesterBotelho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
-
-</div>
-
-<div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=LoesterBotelho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
   
