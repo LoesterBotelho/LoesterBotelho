@@ -42,6 +42,7 @@ Full-Stack Developer com mais de 10 anos de experiência no desenvolvimento de s
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LoesterBotelho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_bust=1" height="150" alt="languages graph"/>
 
+<br/>
 <a href = "https://www.linkedin.com/in/loesterbotelho/">
     <img width="112" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
