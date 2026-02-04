@@ -1,4 +1,5 @@
-# 👋 Olá, Mundo! Eu sou Loester Botelho
+# Hello World! 
+# Eu sou Loester Botelho
 
 💻 **Full-Stack Developer**  
 🚀 +10 anos de experiência criando soluções escaláveis  
@@ -57,6 +58,8 @@ Sempre buscando evoluir, aprender novas tecnologias e entregar **soluções efic
 ---
 
 ## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&hide_border=true&border_radius=10&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
 
