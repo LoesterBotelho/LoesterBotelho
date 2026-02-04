@@ -60,6 +60,12 @@ Sempre buscando evoluir, aprender novas tecnologias e entregar **soluções efic
 
 ## 📊 GitHub Stats
 
+<div class="center">
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200" alt="GitHub Streak" />
+</a>
+</div>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&hide_border=true&border_radius=10&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
