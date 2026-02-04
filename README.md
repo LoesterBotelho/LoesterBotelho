@@ -55,27 +55,13 @@ Sempre buscando evoluir, aprender novas tecnologias e entregar **soluções efic
   🗄️ Explorando bancos de dados e SQL  
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LoesterBotelho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8&order=3&cache_bust=2" height="200" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=LoesterBotelho&theme=dracula&hide_border=false&border_radius=8" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LoesterBotelho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_bust=2" height="165" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LoesterBotelho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&cache_bust=2" height="165" alt="languages graph"/>
-</p>
-
----
-
-## 🔗 Conecte-se comigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/loesterbotelho/" target="_blank">
-    <img width="130" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/LoesterBotelho" target="_blank">
-    <img width="130" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=LoesterBotelho&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoesterBotelho&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=86400" height="165" />
 </p>
