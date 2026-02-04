@@ -8,20 +8,21 @@ Full-Stack Developer com mais de 10 anos de experiência no desenvolvimento de s
 
 ## Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,react,postgresql)](https://skillicons.dev)
 
 ## Tecnologias e Ferramentas
 
 - Java
 - Spring
 - Angular
+- React
 - PostgreSQL
 
 ## Projetos em Destaque
 
 - **[projeto-loester](https://github.com/LoesterBotelho/projeto-loester)** - Uma Jornada Full Stack (Java Spring Project + Angular)
 
-- **[DEVS2BLU - JAVA](https://github.com/LoesterBotelho/DEVS2BLU)** - Uma Uma Jornada Rumo ao Domínio de Java
+- **[JAVA](https://github.com/LoesterBotelho/DEVS2BLU)** - Uma Uma Jornada Rumo ao Domínio de Java
 
 - **[SQL-POSTGRESQL](https://github.com/LoesterBotelho/SQL-POSTGRESQL)** - Explorando o Mundo dos Bancos de Dados
 
