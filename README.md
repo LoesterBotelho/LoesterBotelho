@@ -58,11 +58,7 @@ Sempre buscando evoluir, aprender novas tecnologias e entregar **soluções efic
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&hide_border=true&border_radius=10&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 
-![GitHub followers](https://img.shields.io/github/followers/LoesterBotelho?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/LoesterBotelho?style=for-the-badge)
-![GitHub repos](https://img.shields.io/badge/Public%20Repos-?style=for-the-badge&logo=github)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://streak-stats.demolab.com/demo/)
