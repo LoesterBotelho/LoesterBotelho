@@ -58,11 +58,9 @@ Sempre buscando evoluir, aprender novas tecnologias e entregar **soluções efic
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LoesterBotelho&theme=dracula&hide_border=true&border_radius=8" height="200" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LoesterBotelho&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoesterBotelho&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="165" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/LoesterBotelho?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/LoesterBotelho?style=for-the-badge)
+![GitHub repos](https://img.shields.io/badge/Public%20Repos-?style=for-the-badge&logo=github)
+
