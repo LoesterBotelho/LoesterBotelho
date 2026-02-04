@@ -47,9 +47,12 @@ Sempre buscando evoluir, aprender novas tecnologias e entregar **soluções efic
 
 ## ⭐ Projetos em Destaque
 
-- **[projeto-loester](https://github.com/LoesterBotelho/projeto-loester)**  
+- **[projeto-loester-angular](https://github.com/LoesterBotelho/projeto-loester-angular)**  
   🚀 Jornada Full Stack — Java Spring + Angular  
 
+- **[projeto-loester-react](https://github.com/LoesterBotelho/projeto-loester-react)**  
+  🚀 Jornada Full Stack — Java Spring + React
+  
 - **[Java](https://github.com/LoesterBotelho/JAVA)**  
   ☕ Jornada rumo ao domínio de Java  
 
