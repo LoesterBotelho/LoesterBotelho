@@ -55,13 +55,14 @@ Sempre buscando evoluir, aprender novas tecnologias e entregar **soluções efic
   🗄️ Explorando bancos de dados e SQL  
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LoesterBotelho&theme=dracula&hide_border=false&border_radius=8" height="200" />
+  <img src="https://streak-stats.demolab.com?user=LoesterBotelho&theme=dracula&hide_border=true&border_radius=8" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LoesterBotelho&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoesterBotelho&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LoesterBotelho&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoesterBotelho&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="165" />
 </p>
