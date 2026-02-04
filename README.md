@@ -50,7 +50,7 @@ Sempre buscando evoluir, aprender novas tecnologias e entregar **soluções efic
 - **[projeto-loester](https://github.com/LoesterBotelho/projeto-loester)**  
   🚀 Jornada Full Stack — Java Spring + Angular  
 
-- **[DEVS2BLU - Java](https://github.com/LoesterBotelho/DEVS2BLU)**  
+- **[Java](https://github.com/LoesterBotelho/JAVA)**  
   ☕ Jornada rumo ao domínio de Java  
 
 - **[SQL-POSTGRESQL](https://github.com/LoesterBotelho/SQL-POSTGRESQL)**  
