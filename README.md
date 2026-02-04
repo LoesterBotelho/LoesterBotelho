@@ -58,7 +58,7 @@ Sempre buscando evoluir, aprender novas tecnologias e entregar **soluções efic
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark)]([https://git.io/streak-stats](https://streak-stats.demolab.com/demo/))
 
 ![GitHub followers](https://img.shields.io/github/followers/LoesterBotelho?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/LoesterBotelho?style=for-the-badge)
