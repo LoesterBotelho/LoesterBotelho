@@ -48,7 +48,7 @@ Sempre buscando evoluir, aprender novas tecnologias e entregar **soluções efic
 ## ⭐ Projetos em Destaque
 
 
-- **[SCTEC]([https://github.com/LoesterBotelho/projeto-loester-angular](https://github.com/LoesterBotelho/SCTEC))**  
+- **[SCTEC](https://github.com/LoesterBotelho/SCTEC)**  
   🚀 Jornada Full Stack — SCTEC
   
 - **[projeto-loester-angular](https://github.com/LoesterBotelho/projeto-loester-angular)**  
