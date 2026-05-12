@@ -73,6 +73,8 @@ Sempre buscando evoluir, aprender novas tecnologias e entregar **soluções efic
 </a>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho)](https://git.io/streak-stats)
+
 ## 📊 Duolingo stats
 
 [![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=LoesterF)](https://github.com/KevzPeter/Duolingo-Stats-Card)
