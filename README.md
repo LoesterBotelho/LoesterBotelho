@@ -67,7 +67,7 @@ Sempre buscando evoluir, aprender novas tecnologias e entregar **soluções efic
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark)](https://git.io/streak-stats)
 
 ## 📊 Duolingo stats
 
