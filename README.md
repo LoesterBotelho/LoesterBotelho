@@ -3,17 +3,15 @@
 # Eu sou Loester Botelho
 
 💻 **Full-Stack Developer**  
-🚀 +10 anos de experiência criando soluções escaláveis  
 📚 Apaixonado por tecnologia, arquitetura e aprendizado contínuo  
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou um **desenvolvedor Full-Stack** com mais de **10 anos de experiência** na construção de **sistemas complexos, escaláveis e de alta performance**.  
-Tenho forte expertise em **Java, Spring, Angular, React e PostgreSQL**, além de boas práticas de arquitetura, DevOps e automação.
+Sou um **desenvolvedor Full-Stack**, Tenho forte expertise em **Java, Spring, Angular, React e PostgreSQL**, além de boas práticas de arquitetura, DevOps e automação.
 
-Sempre buscando evoluir, aprender novas tecnologias e entregar **soluções eficientes e de alto impacto**.
+Sempre buscando evoluir, aprender novas tecnologias e entregar **soluções eficientes e de valor agregado**.
 
 ---
 
