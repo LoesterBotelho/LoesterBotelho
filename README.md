@@ -13,6 +13,7 @@ Tenho foco na construção de soluções escaláveis, APIs REST, bancos de dados
 
 Estou em constante evolução, aprendendo novas tecnologias e buscando entregar soluções eficientes e de alto valor.
 
+<!--
 ---
 
 # 💡 Tech Stack
@@ -93,7 +94,7 @@ Estou em constante evolução, aprendendo novas tecnologias e buscando entregar 
 
 [![Scripting](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
-<!--
+
 
 ## 💾 Legacy
 
@@ -126,12 +127,12 @@ Estou em constante evolução, aprendendo novas tecnologias e buscando entregar 
 
 # 📊 GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&timezone=America/Sao_Paulo&v=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&timezone=America/Sao_Paulo&v=2)](https://git.io/streak-stats)
 
 ---
 
-# 📚 Learning
-
-## 🇺🇸 English
+# 📊 Duolingo Statistics
 
 [![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=LoesterF)](https://github.com/KevzPeter/Duolingo-Stats-Card)
+
+---
