@@ -127,7 +127,7 @@ Estou em constante evolução, aprendendo novas tecnologias e buscando entregar 
 
 # 📊 GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&timezone=America/Sao_Paulo&v=2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&timezone=America/Sao_Paulo&v=3)](https://git.io/streak-stats)
 
 ---
 
