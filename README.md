@@ -1,17 +1,28 @@
 # 👋 Olá, eu sou Loester Botelho
 
-💻 **Full-Stack Developer**  
-📚 Apaixonado por tecnologia, arquitetura de software e aprendizado contínuo.
+💻 **Full-Stack Developer | Java | Spring | Angular | React**  
+🚀 Desenvolvimento de aplicações, APIs REST, arquitetura de software e DevOps.  
+📚 Aprendizado contínuo e evolução profissional em tecnologia.
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou um **desenvolvedor Full-Stack** com experiência no desenvolvimento de aplicações utilizando **Java, Spring, Angular, React e PostgreSQL**.
+Sou **desenvolvedor Full-Stack** com experiência no desenvolvimento de aplicações utilizando principalmente **Java, Spring, Angular, React, PostgreSQL e Docker**.
 
-Tenho foco na construção de soluções escaláveis, APIs REST, bancos de dados, arquitetura de software, DevOps e automação, sempre aplicando boas práticas de desenvolvimento.
+Tenho foco no desenvolvimento de **APIs REST, aplicações web, integração entre sistemas, bancos de dados e arquitetura de software**, aplicando boas práticas de desenvolvimento, testes automatizados e princípios de código limpo.
 
-Estou em constante evolução, aprendendo novas tecnologias e buscando entregar soluções eficientes e de alto valor.
+No backend, trabalho principalmente com **Java e Spring**, utilizando ferramentas e tecnologias como **JUnit, Mockito, Maven, PostgreSQL, Docker, Kafka e RabbitMQ**.
+
+Para **testes e validação de APIs REST**, utilizo **Postman e Newman**, incluindo a execução automatizada de coleções de testes.
+
+No frontend, tenho experiência com **Angular, React, TypeScript, JavaScript, HTML e CSS**.
+
+Também tenho grande interesse em **DevOps e infraestrutura**, especialmente **Docker, Docker Compose e Kubernetes**, buscando entender cada vez melhor todo o ciclo de desenvolvimento, execução e entrega de aplicações.
+
+Atualmente, continuo aprimorando meus conhecimentos em **Java, Spring, arquitetura de software, testes automatizados, bancos de dados, containers, Kubernetes e desenvolvimento Full-Stack**.
+
+---
 
 <!--
 ---
