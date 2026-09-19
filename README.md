@@ -1,26 +1,22 @@
 # 👋 Olá, eu sou Loester Botelho
 
 💻 **Full-Stack Developer | Java | Spring | Angular | React**  
-🚀 Desenvolvimento de aplicações, APIs REST, arquitetura de software e DevOps.  
+🚀 Desenvolvimento de aplicações, APIs REST, regras de negócio, testes automatizados e DevOps.  
 📚 Aprendizado contínuo e evolução profissional em tecnologia.
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou **desenvolvedor Full-Stack** com experiência no desenvolvimento de aplicações utilizando principalmente **Java, Spring, Angular, React, PostgreSQL e Docker**.
+Sou **desenvolvedor Full-Stack**, com maior foco em **backend, Java e Spring**, desenvolvendo **APIs REST e aplicações com regras de negócio**.
 
-Tenho foco no desenvolvimento de **APIs REST, aplicações web, integração entre sistemas, bancos de dados e arquitetura de software**, aplicando boas práticas de desenvolvimento, testes automatizados e princípios de código limpo.
-
-No backend, trabalho principalmente com **Java e Spring**, utilizando ferramentas e tecnologias como **JUnit, Mockito, Maven, PostgreSQL, Docker, Kafka e RabbitMQ**.
-
-Para **testes e validação de APIs REST**, utilizo **Postman e Newman**, incluindo a execução automatizada de coleções de testes.
+Gosto de trabalhar com **modelagem de domínio, lógica de negócio, testes unitários e qualidade de código**, utilizando principalmente **JUnit, Mockito, Maven e PostgreSQL**.
 
 No frontend, tenho experiência com **Angular, React, TypeScript, JavaScript, HTML e CSS**.
 
-Também tenho grande interesse em **DevOps e infraestrutura**, especialmente **Docker, Docker Compose e Kubernetes**, buscando entender cada vez melhor todo o ciclo de desenvolvimento, execução e entrega de aplicações.
+Também tenho interesse em **DevOps e infraestrutura**, especialmente **Linux, Docker, Docker Compose, Kubernetes, Terraform, KVM e libvirt**.
 
-Atualmente, continuo aprimorando meus conhecimentos em **Java, Spring, arquitetura de software, testes automatizados, bancos de dados, containers, Kubernetes e desenvolvimento Full-Stack**.
+Atualmente, continuo aprimorando meus conhecimentos em **Java, Spring, arquitetura de software, testes automatizados, bancos de dados, Kubernetes e infraestrutura como código**.
 
 ---
 
@@ -138,7 +134,7 @@ Atualmente, continuo aprimorando meus conhecimentos em **Java, Spring, arquitetu
 
 # 📊 GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&timezone=America/Sao_Paulo&v=3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&timezone=America/Sao_Paulo&v=4)](https://git.io/streak-stats)
 
 ---
 
