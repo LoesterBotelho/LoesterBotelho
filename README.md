@@ -134,7 +134,7 @@ Atualmente, continuo aprimorando meus conhecimentos em **Java, Spring, arquitetu
 
 # 📊 GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&timezone=America/Sao_Paulo&v=4)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&timezone=America/Sao_Paulo&v=7)](https://git.io/streak-stats)
 
 ---
 
