@@ -2,36 +2,50 @@
 
 💻 **Desenvolvedor de Software | Java | Spring Boot | Full-Stack**
 
-🚀 Desenvolvimento de aplicações, APIs REST, regras de negócio, integração entre sistemas e testes automatizados.
+🚀 Desenvolvo aplicações, APIs REST e soluções de software com foco em regras de negócio, integração entre sistemas, bancos de dados relacionais e testes automatizados.
 
-💪 **Resiliência, perseverança e aprendizado contínuo.** Acredito que a evolução profissional é construída com dedicação, disciplina e coragem para enfrentar desafios. Não desisto diante das dificuldades: aprendo com os erros, busco soluções e sigo trabalhando para alcançar meus objetivos.
+🎯 **Foco atual:** Java, Spring Boot, desenvolvimento backend, qualidade de código e evolução contínua.
+
+💪 **Resiliência, disciplina e aprendizado contínuo.** Acredito que a evolução profissional é construída com dedicação, responsabilidade e disposição para enfrentar desafios, aprender com os erros e transformar problemas em oportunidades de crescimento.
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre mim
 
-Sou desenvolvedor de software com experiência em programação e foco atual em **Java, Spring Boot e desenvolvimento backend**.
+Sou desenvolvedor de software com experiência em programação desde 2011 e foco atual no ecossistema **Java e Spring Boot**, com interesse em arquitetura de software, desenvolvimento de APIs e construção de aplicações robustas, testáveis e de fácil manutenção.
 
-Tenho interesse em desenvolver soluções que atendam às necessidades do negócio, com atenção à lógica de programação, modelagem de domínio, bancos de dados relacionais, integração entre sistemas e qualidade de código.
+Tenho experiência e conhecimentos em diferentes tecnologias e ferramentas, incluindo:
 
-Trabalho com tecnologias como **Java, Spring Boot, SQL, PostgreSQL, MariaDB, SQL Server, JUnit, Mockito e Maven**. Também possuo conhecimentos em desenvolvimento frontend com Angular, React, TypeScript, JavaScript, HTML e CSS.
+- **Backend:** Java, Spring Boot, APIs REST e orientação a objetos.
+- **Frontend:** Angular, React, TypeScript, JavaScript, HTML e CSS.
+- **Bancos de dados:** PostgreSQL, MariaDB, SQL Server, Oracle, Firebird e SQLite.
+- **Testes e build:** JUnit, Mockito e Maven.
+- **Infraestrutura e DevOps:** Linux, Docker, Docker Compose, Kubernetes, KVM e Proxmox.
 
-Busco aplicar boas práticas de programação, testes automatizados, organização do código e princípios de orientação a objetos para desenvolver aplicações confiáveis, testáveis e de fácil manutenção.
+Busco desenvolver soluções alinhadas às necessidades do negócio, aplicando boas práticas de programação, organização de código, modelagem de domínio, testes automatizados e princípios de orientação a objetos.
 
-Também tenho interesse em infraestrutura e DevOps, com conhecimentos em Linux, Docker, Docker Compose, Kubernetes e infraestrutura como código.
+Também mantenho uma rotina de estudos e projetos práticos para aprofundar meus conhecimentos, experimentar tecnologias e fortalecer minhas habilidades técnicas.
 
-Acredito que ser desenvolvedor vai além de conhecer tecnologias. É preciso ter curiosidade, responsabilidade, capacidade de resolver problemas e disposição para aprender continuamente.
+## 🧠 Como encaro o desenvolvimento
 
-Minha trajetória é marcada pela perseverança e pela vontade de evoluir. Encaro os desafios como oportunidades de aprendizado e continuo avançando mesmo quando o caminho se torna difícil.
+Acredito que um bom desenvolvedor não se destaca apenas pelo conhecimento técnico, mas também pela responsabilidade, colaboração, capacidade de resolver problemas e disposição para aprender.
 
-**Meu objetivo é evoluir constantemente como desenvolvedor, contribuir com soluções de qualidade e participar de projetos que gerem valor para os clientes e para o negócio.**
+Valorizo a comunicação, o respeito, o comprometimento e a troca de conhecimentos. Procuro aprender com cada experiência, receber feedbacks e evoluir continuamente, tanto na parte técnica quanto na profissional.
 
-> 🚀 Não é sobre nunca encontrar dificuldades. É sobre aprender, levantar e continuar construindo, mesmo quando o caminho é difícil.
+Minha trajetória é marcada pela perseverança e pela busca constante por evolução. Encaro os desafios como oportunidades para desenvolver novas habilidades, encontrar soluções e construir resultados consistentes.
+
+## 🎯 Objetivo profissional
+
+Continuar evoluindo como desenvolvedor de software, aprofundar meus conhecimentos em Java e Spring Boot e contribuir com equipes e projetos que valorizem qualidade técnica, colaboração e entrega de valor ao negócio.
+
+Estou aberto a oportunidades em desenvolvimento de software, especialmente nas áreas de **Java, Spring Boot, backend e desenvolvimento Full-Stack**.
 
 ---
 
 ## 📊 GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&timezone=America/Sao_Paulo&v=77777)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LoesterBotelho&theme=dark&timezone=America/Sao_Paulo&v=777777)](https://git.io/streak-stats)
 
 ---
+
+> 🚀 Evoluir é continuar aprendendo, transformar desafios em experiência e construir soluções cada vez melhores, um passo de cada vez.
