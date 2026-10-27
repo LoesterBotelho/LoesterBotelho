@@ -54,6 +54,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoesterBotelho&layout=compact&theme=github_dark&locale=en&exclude_repo=visualg-web,cc65,LoesterBotelho,LENINGRAD-2-48k,sctec,web-teleprompter,challenge,radio-86rk,RC6502-Apple-1-Replica)
 
+## 🏆 GitHub Profile Review
+
+[![ShowProof GitHub Profile Grader](https://img.shields.io/badge/ShowProof-View%20My%20Profile%20Report-6366F1?style=for-the-badge)](https://showproof.io/tools/github-profile-grader/r/6ae11040086083e3fbda2904)
+
+[View my GitHub profile evaluation and improvement recommendations](https://showproof.io/tools/github-profile-grader/r/6ae11040086083e3fbda2904)
+
 ---
 
 # 👋 Olá, eu sou Loester Botelho
